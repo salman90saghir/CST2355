@@ -2,4 +2,8 @@
 <resources> <string name="app_name">Lab 1</string>
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="title_activity_login">Connexion activite</string>
+    <string name="Login_activity">Connexion</string>
+    <string name="login_name">identifiant</string>
+    <string name="password_name">mot de passe</string>
 </resources>
